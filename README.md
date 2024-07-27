@@ -1,5 +1,5 @@
 # Data Wrangling (247)
-## Project overview
+## Project Overview
 
 * Objective: Demonstrate the ability to merge and filter dataframes as well as the ability to manipulate rows and columns through the use of functions and pre-installed attributes
 * Data files: [personality scores](http://syllabus.africacode.net/projects/data-science-specific/data-wrangling/personality_scores.csv) and [department data](http://syllabus.africacode.net/projects/data-science-specific/data-wrangling/departments.csv)
@@ -43,7 +43,7 @@
     pip install jupyter notebook
     ```
 
-6. Install dependencies to your virtual environmnent:
+6. Install dependencies to your virtual environment:
     ```
     pip install -r requirements.txt
     ``````
@@ -65,7 +65,7 @@
 
 ## Author 
 Thabiso Mokgete  
-* thabiso.mokgete@umuzi.org
+* s.mokgete@gmail.com
 
 ## License 
 Copyright © 2024 [Thabiso Mokgete](https://github.com/Thxbiso-DS).<br />
